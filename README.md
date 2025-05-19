@@ -48,7 +48,11 @@ You're very close — your content is solid and communicates your work well, but
 
 ## Screenshot
 
+Executive Dashboard
+
 ![Screenshot 2025-05-19 140819](https://github.com/user-attachments/assets/ebfad7ff-6ee2-4538-bbf4-1efbc78ac978)
+
+Revenue Dashboard
 
 ![Screenshot 2025-05-19 140755](https://github.com/user-attachments/assets/f617f6a8-97f3-476d-ba60-1460035c0cb9)
 
