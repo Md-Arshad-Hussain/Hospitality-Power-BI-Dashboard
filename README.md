@@ -28,14 +28,14 @@ You're very close — your content is solid and communicates your work well, but
 
 ### 📌 **KPIs Created Using DAX**
 
-* **Total Bookings** | **Total Revenue** | **Average Rating** | **Total Capacity**
+* **Total Bookings** | **Total Revenue** | **Total Capacity** | **Average Rating**
 * **Total Successful Bookings** | **Occupancy %** | **Total Cancelled Bookings**
-* **Cancellation Rate** | **Revenue Loss** | **Total Stay Duration**
+* **Cancellation Rate** | **Revenue Loss** | **ADR** | **RevPAR** | **No Show Rate %**
 
 ### 🛠️ **Tools & Technologies Used**
 
 * **Power BI** – for interactive data visualization and dashboard development
-* **DAX (Data Analysis Expressions)** – for creating dynamic measures and KPIs
+* **DAX** – for creating dynamic measures and KPIs
 * **Excel / CSV** – for importing and cleaning sample hospitality data
 * **Data Modeling** – building relationships and optimizing the data model
 
@@ -46,6 +46,7 @@ You're very close — your content is solid and communicates your work well, but
 * Enhanced ability in **data storytelling** using Power BI
 * Gained experience in converting **raw data into strategic business insights**
 
+## Screenshot
 
 
 
