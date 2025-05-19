@@ -1,5 +1,5 @@
 # AtliQ Grands Hospitality Insights | Power BI Dashboard
-## Live Dashboard Link:
+## Live Dashboard Link:https://app.powerbi.com/view?r=eyJrIjoiZWJmNWZlYTgtYjIxZS00NTMwLTllZjMtZGVlZDcyMWMxNjdhIiwidCI6ImYzMTE2NzdmLWYyZDUtNDMwMC04OTRhLTA1ODQ0M2U3YmI3ZSJ9
 
 ## Problem Statements
 AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate "Business and Data Intelligence" to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
@@ -54,7 +54,7 @@ Executive Dashboard
 
 ![Screenshot 2025-05-19 140819](https://github.com/user-attachments/assets/ebfad7ff-6ee2-4538-bbf4-1efbc78ac978)
 
-Revenue Dashboard
+KPI Dashboard
 
 ![Screenshot 2025-05-19 140755](https://github.com/user-attachments/assets/f617f6a8-97f3-476d-ba60-1460035c0cb9)
 
