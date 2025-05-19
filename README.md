@@ -24,6 +24,28 @@ Their revenue management team had decided to hire a 3rd party service provider t
 
 🔸 **Platform Performance Consistency**: While some platforms like Logtrip and Tripster have lower volumes, their ADR and realisation % remain competitive — they shouldn’t be ignored in growth strategies.
 
+You're very close — your content is solid and communicates your work well, but a few **minor tweaks** will improve clarity, grammar, and flow while maintaining a professional and engaging tone. Here's a **refined version**:
+
+### 📌 **KPIs Created Using DAX**
+
+* **Total Bookings** | **Total Revenue** | **Average Rating** | **Total Capacity**
+* **Total Successful Bookings** | **Occupancy %** | **Total Cancelled Bookings**
+* **Cancellation Rate** | **Revenue Loss** | **Total Stay Duration**
+
+### 🛠️ **Tools & Technologies Used**
+
+* **Power BI** – for interactive data visualization and dashboard development
+* **DAX (Data Analysis Expressions)** – for creating dynamic measures and KPIs
+* **Excel / CSV** – for importing and cleaning sample hospitality data
+* **Data Modeling** – building relationships and optimizing the data model
+
+### 💡 **What I Learned**
+
+* Deepened my understanding of **hospitality KPIs** and operational analytics
+* Improved skills in **dashboard design** and **user-centric layout practices**
+* Enhanced ability in **data storytelling** using Power BI
+* Gained experience in converting **raw data into strategic business insights**
+
 
 
 
